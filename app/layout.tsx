@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "T1 Hub",
-  description: "The ultimate fan site for T1 esports organization.",
+  description: "The ultimate fan site for T1 esports organization",
 };
 
 export default function RootLayout({
